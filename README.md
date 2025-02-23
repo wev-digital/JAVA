@@ -1,5 +1,5 @@
 # JAVA
 Este repositório foi desenvolvido com o propósito de armazenar e compartilhar uma coleção de projetos implementados na linguagem de programação Java. Cada projeto aqui contido foi criado com a intenção de demonstrar diferentes aspectos e funcionalidades da linguagem, bem como suas aplicações práticas em diversas áreas.
 
-# DIA 001 // PROJETO --- LOJA ONLINE
+$ DIA 001 // PROJETO --- LOJA ONLINE
 A criação da janela do aplicativo da loja online de roupas é um passo fundamental no desenvolvimento de uma interface de usuário (UI) intuitiva e atraente. Esta janela serve como o ponto de entrada para os usuários, permitindo que eles naveguem pelas coleções de roupas, visualizem detalhes dos produtos e realizem compras de forma eficiente. A seguir, descreveremos os principais componentes e considerações envolvidas na criação dessa janela.
